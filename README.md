@@ -2,7 +2,7 @@
 ### Paper with code
 1. Multi-agent Papers with code Implemetations [[Paper](https://paperswithcode.com/task/multi-agent-reinforcement-learning/latest)].
 
-Useful Multi-agent RL (Cooperation and Communication) resources
+## Useful Multi-agent RL (Cooperation and Communication) resources
 
 ### 2022
 1. Efficient Distributed Framework for Collaborative Multi-Agent Reinforcement Learning [[Paper](https://arxiv.org/abs/2205.05248)].
