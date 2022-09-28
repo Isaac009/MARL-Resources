@@ -7,6 +7,7 @@
 ### 2022
 1. Efficient Distributed Framework for Collaborative Multi-Agent Reinforcement Learning [[Paper](https://arxiv.org/abs/2205.05248)].
 2. HAVEN: Hierarchical Cooperative Multi-Agent Reinforcement Learning with Dual Coordination Mechanism [[Paper](https://arxiv.org/abs/2110.07246)].
+3. Towards a Standardised Performance Evaluation Protocol for Cooperative MARL [[Paper](https://deepai.org/publication/towards-a-standardised-performance-evaluation-protocol-for-cooperative-marl)].
 
 ### 2018
 1. Near Optimal Exploration-Exploitation in Non-Communicating Markov Decision Processes [[Paper](https://core.ac.uk/display/162958554?source=2)].
