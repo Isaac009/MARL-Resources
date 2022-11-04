@@ -51,6 +51,7 @@
 4. Learning Efficient Multi-agent Communication: An Information Bottleneck Approach [[Paper](https://deepai.org/publication/learning-efficient-multi-agent-communication-an-information-bottleneck-approach)].
 5. A perspective on multi-agent communication for information fusion [[Paper](https://deepai.org/publication/a-perspective-on-multi-agent-communication-for-information-fusion)].
 6. Anti-efficient encoding in emergent communication [[Paper](https://deepai.org/publication/anti-efficient-encoding-in-emergent-communication)].
+7. Fast Adaptation via Meta Learning in Multi-agent Cooperative Tasks [[Paper](https://ieeexplore.ieee.org/document/9060109)].
 
 ### 2018
 1. Near Optimal Exploration-Exploitation in Non-Communicating Markov Decision Processes [[Paper](https://core.ac.uk/display/162958554?source=2)].
