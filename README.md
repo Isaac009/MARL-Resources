@@ -17,6 +17,8 @@
 6. Learning Practical Communication Strategies in Cooperative Multi-Agent Reinforcement Learning [[Paper](https://deepai.org/publication/learning-practical-communication-strategies-in-cooperative-multi-agent-reinforcement-learning)].
 7. An Analysis of Discretization Methods for Communication Learning with Multi-Agent Reinforcement Learning [[Paper](https://deepai.org/publication/an-analysis-of-discretization-methods-for-communication-learning-with-multi-agent-reinforcement-learning)].
 8. Multi-Agent Reinforcement Learning as a Computational Tool for Language Evolution Research: Historical Context and Future Challenges [[Paper](https://deepai.org/publication/multi-agent-reinforcement-learning-as-a-computational-tool-for-language-evolution-research-historical-context-and-future-challenges)]
+9. Coordinating Policies Among Multiple Agents via an Intelligent Communication Channel [[Paper](https://deepai.org/publication/coordinating-policies-among-multiple-agents-via-an-intelligent-communication-channel)]
+10. A Survey of Multi-Agent Reinforcement Learning with Communication [[Paper](https://deepai.org/publication/a-survey-of-multi-agent-reinforcement-learning-with-communication)]
 
 ### 2021
 1. The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games [[Paper](https://deepai.org/publication/the-surprising-effectiveness-of-mappo-in-cooperative-multi-agent-games)].
