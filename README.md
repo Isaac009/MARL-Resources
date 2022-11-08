@@ -72,5 +72,4 @@
 1. A Review of Cooperative Multi-Agent Deep Reinforcement Learning [[Paper](https://deepai.org/publication/a-review-of-cooperative-multi-agent-deep-reinforcement-learning)].
 2. Causal Multi-Agent Reinforcement Learning: Review and Open Problems [[Paper](https://deepai.org/publication/causal-multi-agent-reinforcement-learning-review-and-open-problems)].
 3. A Survey of Multi-Agent Reinforcement Learning with Communication [[Paper](https://deepai.org/publication/a-survey-of-multi-agent-reinforcement-learning-with-communication)].
-4. 
-Learning to Communicate in Multi-Agent Reinforcement Learning : A Review [[Paper](https://deepai.org/publication/learning-to-communicate-in-multi-agent-reinforcement-learning-a-review)].
+4. Learning to Communicate in Multi-Agent Reinforcement Learning : A Review [[Paper](https://deepai.org/publication/learning-to-communicate-in-multi-agent-reinforcement-learning-a-review)].
