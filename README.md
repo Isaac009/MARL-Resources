@@ -35,6 +35,7 @@
 12. Towards Learning to Speak and Hear Through Multi-Agent Communication over a Continuous Acoustic Channel [[Paper](https://deepai.org/publication/towards-learning-to-speak-and-hear-through-multi-agent-communication-over-a-continuous-acoustic-channel)].
 13. Learning to Improve Representations by Communicating About Perspectives [[Paper](https://deepai.org/publication/learning-to-improve-representations-by-communicating-about-perspectives)].
 14. Learning to Ground Multi-Agent Communication with Autoencoders [[Paper](https://deepai.org/publication/learning-to-ground-multi-agent-communication-with-autoencoders)].
+15. Optimal communication and control strategies in a multi-agent MDP problem [[Paper](https://deepai.org/publication/optimal-communication-and-control-strategies-in-a-multi-agent-mdp-problem)]
 
 ### 2020
 1. Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control [[Paper](https://deepai.org/publication/deep-multi-agent-reinforcement-learning-for-decentralized-continuous-cooperative-control)].
