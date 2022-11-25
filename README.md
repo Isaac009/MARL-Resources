@@ -37,6 +37,7 @@
 14. Learning to Ground Multi-Agent Communication with Autoencoders [[Paper](https://deepai.org/publication/learning-to-ground-multi-agent-communication-with-autoencoders)].
 15. Optimal communication and control strategies in a multi-agent MDP problem [[Paper](https://deepai.org/publication/optimal-communication-and-control-strategies-in-a-multi-agent-mdp-problem)]
 16. A Meta-Gradient Approach to Learning Cooperative Multi-Agent Communication Topology[[Paper](https://core.ac.uk/display/521654371?source=2)]
+17. Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control [[Paper](https://arxiv.org/abs/1909.02682)]
 
 ### 2020
 1. Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control [[Paper](https://deepai.org/publication/deep-multi-agent-reinforcement-learning-for-decentralized-continuous-cooperative-control)].
